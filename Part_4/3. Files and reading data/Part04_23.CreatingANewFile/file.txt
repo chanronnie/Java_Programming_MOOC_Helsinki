@@ -1,0 +1,13 @@
+/*
+============== Java Programming I ==============
+Part 4
+Section 3 - Files and reading data
+Ex 23 - Creating a new file
+
+
+Create a file in NetBeans IDE. Name this file "file.txt".
+Go to "File" > "New File" > Categories: "Other" > "Empty file" > Name the file with the appropriate extension.
+=================================================
+*/
+
+Hello, world!
