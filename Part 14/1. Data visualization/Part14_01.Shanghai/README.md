@@ -5,7 +5,7 @@
 In this exercise, we are asked to create a line chart that visualizes the ranking of the University of Helsinki between the years 2007 and 2017 among other internationally renowned universities. 
 The axes labels and the title should be given to the chart appropriately.
 
-## File Contents
+### File Contents
 - [ShanghaiApplication.java](ShanghaiApplication.java): This Java file contains my code for creating the data visualization.
 - [LineChart_Ranking.png](LineChart_Ranking.png): This image displays the line chart obtained from the Java file above. (see above)
 
