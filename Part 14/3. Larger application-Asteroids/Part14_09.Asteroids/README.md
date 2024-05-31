@@ -13,7 +13,7 @@ It contains three main characters:
 * [**asteroids**](asteroids): This folder (or package) contains the following files for runnig the asteroid game application.
   * [AsteroidsApplication.java](AsteroidsApplication.java): This file contains the main program for running the application.
   * [GameLogic.java](GameLogic.java): This file contains the Java code for the game logic.
-* [**| characters**](characters): This folder (or package) contains the following files for creating characters in the game.
+* [**characters**](characters): This folder (or package) contains the following files for creating characters in the game.
   * [Character.java](Character.java): This file contains the template for creating Character objects. The Character is defined as an abstract class.
   * [Ship.java](Ship.java): This file is for creating the `Ship` object.
   * [Projectile.java](Projectile.java): This file is for creating the `Projectile` object.
